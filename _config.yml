@@ -13,7 +13,7 @@ title                    : "Yijing Lin's Website"
 title_separator          : "-"
 name                     : &name "Yijing Lin"
 description              : &description "Postdoc, Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT) Email: yjlin@bupt.edu.cn"
-url                      : https://yijinglin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yijinglin123.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RookieLinLucy/yijinglin.github.io"
 
