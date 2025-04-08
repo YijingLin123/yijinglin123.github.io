@@ -1,0 +1,18 @@
+.student {
+    display: flex;          /* 使用 Flexbox 布局 */
+    align-items: center;    /* 垂直居中对齐图片和文字 */
+    margin-bottom: 20px;    /* 每个学生之间的间距 */
+  }
+  
+  .student-img {
+    width: 150px;           /* 统一图片的宽度 */
+    height: 150px;          /* 统一图片的高度 */
+    border-radius: 50%;     /* 圆形显示图片 */
+    object-fit: cover;      /* 保证图片不会被拉伸，保持原比例 */
+    margin-right: 20px;     /* 图片和文字之间的间距 */
+  }
+  
+  .student-info {
+    max-width: 800px;       /* 文字部分的最大宽度 */
+    font-size: 16px;        /* 文字的大小 */
+  }
