@@ -13,16 +13,17 @@ News
 ======
 <div>
   <ul>
+    <li>[2025/05] Our tutorial proposed tutorial, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications”, has been accepted for presentation at VTC2025-Fall conference to be held in Chengdu, China.</li>
     <li>[2025/03] The PhD students I co-supervise (Ze Chai, Zhiqiang Xie, Xinlei Yu) won the third prize in the "Jinnang-2024" Future Warfare Scenarios and Creative Ideas Competition organized by China Aerospace Science and Industry Corporation.</li>
     <li>[2025/03] I am honor to join as a <strong>Workshop Chair</strong> of KSEM 2025 Track: Advanced Data Security and Privacy Preservation in AI.</li>
     <li>[2025/03] Our paper "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0" was selected as <strong>ESI Highly Cited Papers</strong> again (First author).</li>
     <li>[2025/02] Our paper "Eﬀicient and Trusted Federated Unlearning for Semantic Knowledge Base" was accepted by Science China-Information Sciences (中国科学：信息科学) (First author).</li>
-    <li>[2025/02] Our paper "Trustworthy Intelligent Networks for Low-Altitude Economy" was accepted by IEEE Communications Magazine (Co-corresponding author).</li>
   </ul>
 
   <details>
     <summary><strong>More News [Since 2024/09]</strong></summary>
     <ul>
+      <li>[2025/02] Our paper "Trustworthy Intelligent Networks for Low-Altitude Economy" was accepted by IEEE Communications Magazine (Co-corresponding author).</li>
       <li>[2025/01] Our paper "Diffusion Model Empowered Efficient Data Distillation Method for Cloud-Edge Collaboration" was accepted by IEEE Transactions on Cognitive Communications and Networking (Co-corresponding author).</li>
       <li>[2024/12] I am invited as a <strong>Keynote Speaker</strong> at the Data Elements and Circulation Forum, China Data Conference. </li>
       <li>[2024/12] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the 2023 <strong>Best Paper Award</strong> from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board (First author).</li>
