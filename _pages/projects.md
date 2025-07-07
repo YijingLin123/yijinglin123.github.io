@@ -13,7 +13,6 @@ Here you can find an overview of my ongoing and completed research projects, inc
 
    **Role:** PI, **Date:** 2024.09-2026.08, **Funding Agency:** Postdoctoral Innovative Talent Support Program
 
-   This project aims to design efficient blockchain-based unlearning mechanisms to improve data privacy and sharing in decentralized systems. Key challenges include verifying data unlearning, scaling unlearning requests, and incentivizing participants. The project will focus on creating a blockchain-based framework for trusted federated unlearning and optimizing mechanisms for scalable and verifiable unlearning while maintaining model accuracy.
 
 2. **Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Unlearning**  
 
@@ -21,7 +20,17 @@ Here you can find an overview of my ongoing and completed research projects, inc
    
    **Role:** PI, **Date:** 2025.02-2026.01, **Funding Agency:** CCF-Huawei Populus Euphratica Innovation Research Project
 
-   This project develops post-hoc fault-tolerant techniques for LLM-generated content by using unlearning methods to forget harmful or inaccurate data without retraining. It aims to enhance content generation by addressing challenges such as unlearning negative samples, coordinating unlearning across mixed models, and verifying unlearning in trusted models.
+3. **Research on Key Technologies of Industrial Internet of Things Data Sharing for Cross-domain Trusted Circulation**  
+
+   **面向跨域可信流通的工业互联网数据共享关键技术研究**
+   
+   **Role:** PI, **Date:** 2025.07-2028.06, **Funding Agency:** Beijing Natural Science Foundation
+
+4. **Research on Data Forgetting Staged Closed-Loop Collaborative Mechanism**  
+
+   **数据遗忘阶段式闭环协同机制研究**
+   
+   **Role:** PI, **Date:** 2025.07-2026.08, **Funding Agency:** China Postdoctoral Science Foundation
 
 Awards and Recognitions
 ======
