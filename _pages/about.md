@@ -16,8 +16,7 @@ News
     <li>Our Best Readings Initiative has been accepted by IEEE COMSOC.</li>
     <li>Our proposal has been supported by China Postdoctoral Science Foundation.</li>
     <li>Our proposal has been supported by Beijing Natural Science Foundation.</li>
-    <li>Our newsletter <a href="https://site.ieee.org/com-cn/files/2025/06/TCCN_Newsletter_June_2025.pdf" target="_blank" rel="noopener">
-    “A Perspective on Dynamics in Semantic Knowledge Base: Integrating Learning and Unlearning” has been published by IEEE Cognitive Networks Technical Committee with ICC.</li>
+    <li>Our newsletter “A Perspective on Dynamics in Semantic Knowledge Base: Integrating Learning and Unlearning” has been published by IEEE Cognitive Networks Technical Committee with ICC.</li>
     <li>[2025/05] Our tutorial proposed tutorial, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications”, has been accepted for presentation at VTC2025-Fall conference to be held in Chengdu, China.</li>
   </ul>
 
