@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT). I received my Ph.D. in 2024 from BUPT. My research interests include federated unlearning, blockchain, and data governance. I have published papers in leading venues such as IEEE TCOM, TSC, TNSE, WWW, and IJCAI. My work has been recognized with several awards, including Second Prizes for Scientific and Technological Process, Best Paper Awards from IEEE OJCS, IEEE IWCMC and IEEE-CCF Service Computing Committee, as well as top prizes in national blockchain innovation competitions. In 2024, I was selected for China’s Postdoctoral Innovative Talent Support Program, one of the most competitive national fellowships, with only 24 awardees selected nationwide in my field. I really enjoy exchanging ideas and collaborating on challenging problems. Please feel free to reach out if you're interested in collaboration or just want to connect.
+I'm a postdoctoral researcher at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT). I received my Ph.D. in 2024 from BUPT. My research interests include federated unlearning, blockchain, and data governance. I have published papers in leading venues such as IEEE TCOM, TSC, TNSE, WWW, and IJCAI. My work has been recognized with several awards, including three Second Prizes for Scientific and Technological Process, Best Paper Awards from IEEE Computer Society, IEEE IWCMC and IEEE-CCF Service Computing Committee, as well as top prizes in national blockchain innovation competitions. In 2024, I was selected for China’s Postdoctoral Innovative Talent Support Program, one of the most competitive national fellowships, with only 24 awardees selected nationwide in my field. I really enjoy exchanging ideas and collaborating on challenging problems. Please feel free to reach out if you're interested in collaboration or just want to connect.
 
 News
 ======
 <div>
   <ul>
+    <li>Our Best Readings Initiative has been accepted by IEEE COMSOC.</li>
     <li>Our proposal has been supported by China Postdoctoral Science Foundation.</li>
     <li>Our proposal has been supported by Beijing Natural Science Foundation.</li>
+    <li>Our newsletter <a href="https://site.ieee.org/com-cn/files/2025/06/TCCN_Newsletter_June_2025.pdf" target="_blank" rel="noopener">
+    “A Perspective on Dynamics in Semantic Knowledge Base: Integrating Learning and Unlearning” has been published by IEEE Cognitive Networks Technical Committee with ICC.</li>
     <li>[2025/05] Our tutorial proposed tutorial, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications”, has been accepted for presentation at VTC2025-Fall conference to be held in Chengdu, China.</li>
   </ul>
 
@@ -52,7 +55,16 @@ For all publications, please refer to my [google scholar](https://scholar.google
 Projects
 ======
 1. <strong>PI</strong>, Postdoctoral Innovative Talent Support Program, Research on Blockchain-Network Integrated Unlearning Mechanisms for Data Element Circulation, 2024.09-2026.08.
-2. <strong>PI</strong>, 2024 CCF-Huawei Populus euphratica Technology Fund Special Track on Trusted Computing, Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Machine Unlearning, 2025.02-2026.02.
+2. <strong>PI</strong>, CCF-Huawei Populus euphratica Technology Fund Special Track on Trusted Computing, Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Machine Unlearning, 2025.02-2026.02.
+3. <strong>PI</strong>, Beijing Natural Science Foundation, Research on Key Technologies of Industrial Internet of Things Data Sharing for Cross-domain Trusted Circulation, 2025.07-2028.06.
+4. <strong>PI</strong>, China Postdoctoral Science Foundation, Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism, 2025.07-2026.08.
+
+Service
+======
+1. <strong>Leading Contributors</strong>, IEEE COMSOC Best Readings in Privacy Preservation for Machine Learning in Communications.
+2. <strong>Youth Editorial Board Members</strong>, Blockchain: Research and Applications.
+3. <strong>Tutorial Organizer</strong>, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications” at VTC2025-Fall.
+4. Reviewers of some top journals and conference.
 
 Teaching
 ======

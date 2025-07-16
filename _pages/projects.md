@@ -26,7 +26,7 @@ Here you can find an overview of my ongoing and completed research projects, inc
    
    **Role:** PI, **Date:** 2025.07-2028.06, **Funding Agency:** Beijing Natural Science Foundation
 
-4. **Research on Data Forgetting Staged Closed-Loop Collaborative Mechanism**  
+4. **Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism**  
 
    **数据遗忘阶段式闭环协同机制研究**
    
