@@ -13,16 +13,19 @@ News
 ======
 <div>
   <ul>
-    <li>Our Best Readings Initiative has been accepted by IEEE COMSOC.</li>
-    <li>Our proposal has been supported by China Postdoctoral Science Foundation.</li>
-    <li>Our proposal has been supported by Beijing Natural Science Foundation.</li>
-    <li>Our newsletter “A Perspective on Dynamics in Semantic Knowledge Base: Integrating Learning and Unlearning” has been published by IEEE Cognitive Networks Technical Committee with ICC.</li>
-    <li>[2025/05] Our tutorial proposed tutorial, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications”, has been accepted for presentation at VTC2025-Fall conference to be held in Chengdu, China.</li>
+    <li>[2025/09] Our paper “Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization” has been recognized as both an ESI Hot Paper and an ESI Highly Cited Paper.</li>
+    <li>[2025/08] Our paper has been selected as the best paper of KSEM 2025.</li>
+    <li>[2025/08] Our proposal has been supported by National Natural Science Foundation of China.</li>
+    <li>[2025/08] Our Best Readings Initiative has been published by IEEE COMSOC.</li>
   </ul>
 
   <details>
     <summary><strong>More News [Since 2024/09]</strong></summary>
     <ul>
+      <li>[2025/07] Our proposal has been supported by China Postdoctoral Science Foundation.</li>
+      <li>[2025/05] Our proposal has been supported by Beijing Natural Science Foundation.</li>
+      <li>[2025/05] Our newsletter “A Perspective on Dynamics in Semantic Knowledge Base: Integrating Learning and Unlearning” has been published by IEEE Cognitive Networks Technical Committee with ICC.</li>
+      <li>[2025/05] Our tutorial proposed tutorial, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications”, has been accepted for presentation at VTC2025-Fall conference to be held in Chengdu, China.</li>
       <li>[2025/03] The PhD students I co-supervise (Ze Chai, Zhiqiang Xie, Xinlei Yu) won the third prize in the "Jinnang-2024" Future Warfare Scenarios and Creative Ideas Competition organized by China Aerospace Science and Industry Corporation.</li>
       <li>[2025/03] I am honor to join as a <strong>Workshop Chair</strong> of KSEM 2025 Track: Advanced Data Security and Privacy Preservation in AI.</li>
       <li>[2025/03] Our paper "A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0" was selected as <strong>ESI Highly Cited Papers</strong> again (First author).</li>

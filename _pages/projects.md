@@ -13,20 +13,25 @@ Here you can find an overview of my ongoing and completed research projects, inc
 
    **Role:** PI, **Date:** 2024.09-2026.08, **Funding Agency:** Postdoctoral Innovative Talent Support Program
 
+2. **Research on Full-Process Unlearning Methods for Data Element Circulation Governance** 
 
-2. **Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Unlearning**  
+   **面向数据要素流通治理的全流程遗忘方法研究**  
+
+   **Role:** PI, **Date:** 2026.01-2028.12, **Funding Agency:** National Natural Science Foundation of China
+
+3. **Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Unlearning**  
 
    **基于遗忘的大模型生成内容事后容错技术**
    
    **Role:** PI, **Date:** 2025.02-2026.01, **Funding Agency:** CCF-Huawei Populus Euphratica Innovation Research Project
 
-3. **Research on Key Technologies of Industrial Internet of Things Data Sharing for Cross-domain Trusted Circulation**  
+4. **Research on Key Technologies of Industrial Internet of Things Data Sharing for Cross-domain Trusted Circulation**  
 
    **面向跨域可信流通的工业互联网数据共享关键技术研究**
    
    **Role:** PI, **Date:** 2025.07-2028.06, **Funding Agency:** Beijing Natural Science Foundation
 
-4. **Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism**  
+5. **Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism**  
 
    **数据遗忘阶段式闭环协同机制研究**
    
@@ -36,6 +41,8 @@ Awards and Recognitions
 ======
 
 Here are some of the awards I have received in recognition of my contributions to research and innovation:
+
+- 2025 Second Prize of the Invention and Innovation Award of the China Invention Association
 
 - 2024 Second Prize for Scientific and Technological Progress from the China Urban Rail Transit Association (National First-Class Association)
 
