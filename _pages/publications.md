@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  <div class="wordwrap">You can also find all articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
     🏆 ESI Highly Cited Paper Published by IEEE Wireless Communications, 2025/03
-    🏆 Best Paper Award of IEEE Open Journal of the Computer Society, 2024/12
+
+    🏆 Best Paper Award of IEEE Computer Society, 2024/12
+
     🏆 Best Student Paper Award of IEEE-CCF Service Computing Committee, 2024/09
+
+    🏆 Best Paper Award of KSEM 2025, 2025/08
+
+    🏆 Outstanding Paper Award of IEEE Trustcom 2025, 2025/11
+
     🏆 IEEE ComSoc Best Readings of Generative AI and Large Language Models for Networking, 2024/09
+
     🏆 Best Paper Award of IEEE IWCMC 2024 Conference, 2024/05
+
     🏆 Best Paper Award of CCF China Blockchain Technology and Applications Summit Forum, 2023/12
   </div>
 
@@ -18,7 +27,7 @@ Book or Book Chapter
 ======
 - **Yijing Lin**, Zhipeng Gao, Hongyang Du, Jiacheng Wang, Jiakang Zheng. Semantic Communication in the Metaverse. Wireless Semantic Communications: Concepts, Principles and Challenges. 
 
-Journal
+Journal (Part)
 ======
 - **林怡静(Yijing Lin)**，任金科，王嘉诚，马楠，张晔，崔曙光. 面向多用户语义知识库高效可信联邦遗忘方案(Eﬀicient and Trusted Federated Unlearning for Semantic Knowledge Base). 中国科学：信息科学(Science China-Information Sciences), 2025.
 
@@ -54,7 +63,7 @@ Journal
 
 - **Yijing Lin**, Zhipeng Gao, Kaile Xiao, Qian Wang, Zijia Mo. A Model Training Mechanism based on On-chain and Off-chain Collaboration for Edge Computing. IEEE International Conference on Communications (ICC 2021). 
 
-Conference
+Conference (Part)
 ======
 
 - **Yijing Lin**, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Xiaoyuan Liu. Incentive and Dynamic Client Selection for Federated Unlearning. The Web Conference (WWW 2024).

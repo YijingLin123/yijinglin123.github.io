@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT). I received my Ph.D. in 2024 from BUPT. My research interests include federated unlearning, blockchain, and data governance. I have published papers in leading venues such as IEEE TCOM, TSC, TNSE, WWW, and IJCAI. My work has been recognized with several awards, including three Second Prizes for Scientific and Technological Process, Best Paper Awards from IEEE Computer Society, IEEE IWCMC and IEEE-CCF Service Computing Committee, as well as top prizes in national blockchain innovation competitions. In 2024, I was selected for China’s Postdoctoral Innovative Talent Support Program, one of the most competitive national fellowships, with only 24 awardees selected nationwide in my field. I really enjoy exchanging ideas and collaborating on challenging problems. Please feel free to reach out if you're interested in collaboration or just want to connect.
+Dr. Yijing Lin is a Postdoctoral Researcher at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), China. She received her Ph.D. degree in Computer Science and Technology from BUPT in 2024 under the supervision of Prof. Zhipeng Gao, and conducted joint research at Nanyang Technological University (Singapore) with Prof. Dusit Niyato and at the Chinese University of Hong Kong (Shenzhen) with Prof. Shuguang Cui. Her research interests include blockchain-enabled trustworthy data governance, federated learning and unlearning, and semantic communication for next-generation intelligent networks. Dr. Lin has published over 20 papers in premier venues such as IEEE TMC, TSC, TCOM, TNSE, WWW, IJCAI, and COMST, including two ESI Highly Cited Papers and one ESI Hot Paper. Her research has received IEEE Computer Society Best Paper Award, the IEEE-CCF Service Computing Best Student Paper Award, the KSEM Best Paper Award, the IEEE Trustcom Outstanding Paper Award, he IEEE IWCMC Best Paper Award, and CCF China Blockchain Technology and Applications Summit Forum Best Paper Award. She is also the Principal Investigator of several nationally competitive research grants, including the Postdoctoral Innovation Talent Program funded by the Ministry of Human Resources and Social Security of China, the National Natural Science Foundation of China (NSFC) Youth Program.
 
 News
 ======
 <div>
   <ul>
+    <li>[2025/11] Our paper has been selected as the outstanding paper of IEEE Trustcom 2025.</li>
     <li>[2025/09] Our paper “Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization” has been recognized as both an ESI Hot Paper and an ESI Highly Cited Paper.</li>
     <li>[2025/08] Our paper has been selected as the best paper of KSEM 2025.</li>
     <li>[2025/08] Our proposal has been supported by National Natural Science Foundation of China.</li>
@@ -44,7 +45,7 @@ News
   </details>
 </div>
 
-Papers (First author)
+Representative Papers (First author)
 ======
 For all publications, please refer to my [google scholar](https://scholar.google.com/citations?user=aVK4rRkAAAAJ).
 
@@ -54,19 +55,21 @@ For all publications, please refer to my [google scholar](https://scholar.google
 4. Y. Lin, Z. Gao, H. Du, J. Kang, D. Niyato, Q. Wang, J. Ruan, S. Wan, "DRL-Based Adaptive Sharding for Blockchain-Based Federated Learning," IEEE Transactions on Communications, vol. 71, no. 10, pp. 5992-6004, Oct. 2023. (CCF-B, Best Paper Award)
 5. Y. Lin, J. Ren, J. Wang, N. Ma, Y. Zhang, S. Cui, Eﬀicient and Trusted Federated Unlearning for Semantic Knowledge Base, Science China-Information Sciences  (中国科学：信息科学), 2025. (CCF-A)
 
-Projects
+Representative Projects (PI)
 ======
 1. <strong>PI</strong>, Postdoctoral Innovative Talent Support Program, Research on Blockchain-Network Integrated Unlearning Mechanisms for Data Element Circulation, 2024.09-2026.08.
-2. <strong>PI</strong>, CCF-Huawei Populus euphratica Technology Fund Special Track on Trusted Computing, Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Machine Unlearning, 2025.02-2026.02.
-3. <strong>PI</strong>, Beijing Natural Science Foundation, Research on Key Technologies of Industrial Internet of Things Data Sharing for Cross-domain Trusted Circulation, 2025.07-2028.06.
-4. <strong>PI</strong>, China Postdoctoral Science Foundation, Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism, 2025.07-2026.08.
+2.  <strong>PI</strong>, National Natural Science Foundation of China, Research on Full-Process Unlearning Methods for Data Element Circulation Governance, 2026.01-2028.12.
+3. <strong>PI</strong>, Beijing Natural Science Foundation, Research on Key Technologies of Industrial Internet of Things Data Sharing for 4ross-domain Trusted Circulation, 2025.07-2028.06.
+4. <strong>PI</strong>, CCF-Huawei Populus euphratica Technology Fund Special Track on Trusted Computing, Post-Hoc Fault-Tolerant Techniques for LLM-Generated Content Based on Machine Unlearning, 2025.02-2026.02.
+5. <strong>PI</strong>, China Postdoctoral Science Foundation, Research on Data Unlearning Staged Closed-Loop Collaborative Mechanism, 2025.07-2026.08.
 
 Service
 ======
 1. <strong>Leading Contributors</strong>, IEEE COMSOC Best Readings in Privacy Preservation for Machine Learning in Communications.
 2. <strong>Youth Editorial Board Members</strong>, Blockchain: Research and Applications.
 3. <strong>Tutorial Organizer</strong>, “Trustworthy and Efficient Generative AI and Pretrained LLMs for Next-Generation Communications” at VTC2025-Fall.
-4. Reviewers of some top journals and conference.
+4. <strong>Track Chair</strong>, "Blockchain Enabled Trusted Circulation of Data in IIoT" at CCF Blockchain Summit Forum 2025
+5. <strong>Moderator</strong>, "Intelligent Transportation Systems Career Path to Net Zero" at IEEE Women in Engineering panel 2024.
 
 Teaching
 ======
