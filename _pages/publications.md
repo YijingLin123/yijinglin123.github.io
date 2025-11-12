@@ -23,6 +23,16 @@ author_profile: true
     🏆 Best Paper Award of CCF China Blockchain Technology and Applications Summit Forum, 2023/12
   </div>
 
+Standard
+======
+- P3809 Standard for Technical Specification of Blockchain-based Electronic Bidding.
+
+- P3811 Standard for Security Service Specifications for DLT-based Supply Chain Finance.
+
+- P3231.01 Draft Standard for the Reference Architecture of Blockchain as a Service.
+
+- P3231.02 Draft Standard for Reference Architecture of Blockchain Fusion Server.
+
 Book or Book Chapter
 ======
 - **Yijing Lin**, Zhipeng Gao, Hongyang Du, Jiacheng Wang, Jiakang Zheng. Semantic Communication in the Metaverse. Wireless Semantic Communications: Concepts, Principles and Challenges. 
