@@ -31,3 +31,5 @@ LLM and AI Agent
 - MiniMind-LLM: https://github.com/jingyaogong/minimind
 
 - Basic knowledge of AI Agent: https://www.youtube.com/watch?v=M2Yg1kwPpts
+
+- Hello Agents: https://github.com/datawhalechina/hello-agents 
