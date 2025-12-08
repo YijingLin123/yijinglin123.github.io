@@ -31,7 +31,7 @@ Here are the students I supervise or co-supervise and work with in various resea
 
 
 - **2025 Team Building at Universal Beijing Resort**
-<img src="assets/images/team_building_2025_1" alt="Team Building" width="300">
+<img src="assets/images/team_building_2025_1.jpeg" alt="Team Building" width="300">
 
-<img src="assets/images/team_building_2025_2" alt="Team Building" width="300">
+<img src="assets/images/team_building_2025_2.jpeg" alt="Team Building" width="300">
 
